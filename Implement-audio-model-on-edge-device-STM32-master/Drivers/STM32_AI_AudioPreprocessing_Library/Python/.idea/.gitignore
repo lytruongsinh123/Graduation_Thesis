@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\ADMIN\Downloads\en.fp-ai-sensing1\STM32CubeFunctionPack_SENSING1_V4.0.2\Middlewares\ST\STM32_AI_AudioPreprocessing_Library\Python\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
